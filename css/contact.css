@@ -1,0 +1,66 @@
+html,body{
+    height: 100%;
+}
+
+body {
+	background-color: #e1e8e9;
+}
+
+ul{
+	list-style-type: none;
+}
+
+#nav_header_list {
+	overflow-y: hidden
+}
+
+#jumbotron_container {
+	margin-top: 6em;
+}
+
+#jumbotron{
+	background-color: white;
+	font-size: 1.5em;
+}
+
+.contact_header{
+	text-decoration: underline;
+	font-size: 1.5em;
+}
+
+.contact_list{
+	text-align: center;
+}
+
+.contact_list li{
+	margin-left: -2em;
+}
+
+#jumbotron h1 {
+	font-family: Century Gothic;
+	margin-top: -0.2em;
+}
+
+#social_media li {
+	margin-left: -0.8em;
+	margin-right: -0.8em;
+}
+
+#social_media img:hover {
+	opacity: 0.8;
+}
+
+#footer {
+	margin-top: 3%;
+	margin-bottom: -1em;
+}
+
+@media (max-width: 991px) {
+	#sliderFrame{
+		display: none;
+	}
+	
+	#jumbotron hr{
+		display: none;
+	}
+}
