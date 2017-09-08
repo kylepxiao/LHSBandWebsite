@@ -1,4 +1,4 @@
 # LHSBandWebsite
 Prototype of Lakeside High School marching band website
-<br/>
+![alt text](site.jpg)
 Current site at http://lakesideband.site/ (No longer managed by me) 
